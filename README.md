@@ -1,2 +1,2 @@
 # PreCourse_Henry
-Este es un repositorio de prueba del modulo II del Precouse Henry
+Este proyecto es una prueba de como clonar un repositorio y clonarlo desde mi github hasta mi terminal.
